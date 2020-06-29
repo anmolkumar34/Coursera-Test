@@ -1,0 +1,47 @@
+*{
+	box-sizing: border-box;
+	margin-bottom: 0;
+	padding: 0;
+}
+/*nav{/*
+	background-color: black;
+}*/
+.navbar-brand span{
+	font-family: 'Balsamiq Sans', cursive;
+	color: white;
+	font-size: 1.4em;
+}
+#nav-list a{
+	text-align: center;
+	color: white;
+}
+hr
+{
+	width: 90%; 
+	color: black;
+	height: 1px;
+	background-color:white;
+	margin:0 auto 0;
+}
+.heading{
+	margin-top: 1%;
+	font-size: 1.75em;
+	font-family: 'Balsamiq Sans', cursive;
+	font-weight: bold;
+
+}
+.content{
+	background-color: grey;
+	color: black;
+	font-size: 1.25em;
+	font-family: 'Balsamiq Sans', cursive;
+	margin-bottom: 5%;
+	width:85%;
+	/*border: black solid 1px;*/
+}
+.sub-head{
+	font-weight: bold;
+}
+.material{
+	padding: 1% 2% 2% 2%;
+}
